@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://ifeanyieseni.github.io/mysite",
+  "homepage": "https://github.com/ifeanyieseni/mysite.git",
   "dependencies": {
     "gh-pages": "^3.2.3"
   }
